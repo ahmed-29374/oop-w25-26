@@ -7,6 +7,7 @@ The goal of this project is to build a **web application** that allows students 
 Each student can add one or more projects, including a title, short description, image, and GitHub link.  
 An **admin user** can log in to review all projects and **select the best ones** to display on the **public homepage**.
 
+Project should be build in 2 phases (vibe coded Prototype and Python web app)
 ---
 
 ## 🚀 Core Features
@@ -41,9 +42,15 @@ An **admin user** can log in to review all projects and **select the best ones**
   - GitHub link  
 
 ---
-## Prototype
-Build a working prototype using base44
 
+# Phase 1 - vibe coding
+## Tech
+Choose any vibe coding platform you like
+* base44 (my preference)
+* lovable.app
+* replit
+
+# Phase 2 - Python  
 ## ⚙️ Technical Requirements 
 
 | Component | Technology |
@@ -87,6 +94,7 @@ Build a working prototype using base44
 ---
 
 ## 📁 Suggested Project Structure
+```
 student_projects/
 │
 ├── app/
@@ -107,3 +115,4 @@ student_projects/
 │
 ├── requirements.txt
 └── README.md
+```
