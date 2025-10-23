@@ -1,2 +1,2 @@
 # Bot name 
-@awesome_botty35_bot
+https://t.me/awesome_botty35_bot
