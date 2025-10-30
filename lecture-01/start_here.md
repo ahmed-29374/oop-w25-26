@@ -8,7 +8,7 @@
 * Fork this repository
 * Create a folder `[index_number]-[your_name]` inside students folder
 * inside that folder create `task-01.md`
-* create your (personal) website in lovable.com
+* create your (personal) website in base44.com
 * publish it
 * add the link to that website task-01.md
 
