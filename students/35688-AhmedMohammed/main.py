@@ -9,8 +9,8 @@ def my_name():
   print("Your name is ahmed")
 
   #Lists
-list1 = ["apple", "banana", "cherry"]
-list2 = [1, 5, 7, 9, 3]
+list1 = ["ahh", "puh", "dih"]
+list2 = [41, 67, 69]
 list3 = [True, False]
 
 #Dictionaries
@@ -18,3 +18,7 @@ list3 = [True, False]
 person={"name":"ahmed" ,
          "age":20 ,
          "city":"warsaw"}
+
+print(list1)
+
+
